@@ -11,7 +11,11 @@ Currently, two official plugins are available:
 
 # Console commands used to build this app
 npm create vite@latest
+
 npm install
+
 npm install -D tailwindcss postcss autoprefixer
+
 npx tailwindcss init -p
+
 npm run dev
