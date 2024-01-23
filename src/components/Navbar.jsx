@@ -47,3 +47,5 @@ const Navbar = () => {
 }
 
 export default Navbar
+
+//create the main fun with 'rafce'
